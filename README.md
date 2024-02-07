@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, This is Amit Bhowmik</h1>
-<h3 align="center">Coding is my passion</h3>
+<h3 align="center">Programmer.</h3>
 
 <p align="center">
 <a href="https://fb.com/amit.bhowmik.5205622?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amit.bhowmik.5205622?_rdc=1&_rdr" height="20" width="auto" /></a>
@@ -15,11 +15,7 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Bhowmik&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=offline-service-sharing-client">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Amit-Bhowmik&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
-  
 </div>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amit-Bhowmik&show_icons=true&locale=en&theme=darcula" alt="Amit-Bhowmik" /></p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=amit17&theme=darcula" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -36,6 +32,11 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="20" height="auto"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="auto"/> </a> 
 </p>
+
+
+<p align="center" width="60%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amit-Bhowmik&show_icons=true&locale=en&theme=darcula" alt="Amit-Bhowmik" /></p>
+<p align="center" width="60%"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=amit17&theme=darcula" /></p>
+
 
 
 
