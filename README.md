@@ -8,7 +8,9 @@
   
 </div>
 
-<a href="https://wakatime.com/@018d83a8-99e7-442d-a0fe-a4b083f56119"><img src="https://wakatime.com/badge/user/018d83a8-99e7-442d-a0fe-a4b083f56119.svg" alt="Total time coded since Feb 7 2024" /></a>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amit-Bhowmik&show_icons=true&locale=en&theme=tokyonight" alt="Amit-Bhowmik" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=amit17&theme=tokyonight" /></p>
+
 
 
 ###
