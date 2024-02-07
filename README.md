@@ -26,7 +26,6 @@
 </p>
 
 <p align="center" width="60%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amit-Bhowmik&show_icons=true&locale=en&theme=darcula" alt="Amit-Bhowmik" /></p>
-<a href="https://wakatime.com/badge/github/Amit-Bhowmik/Amit-Bhowmik"><img src="https://wakatime.com/badge/github/Amit-Bhowmik/Amit-Bhowmik.svg" alt="wakatime"></a>
 <p align="center" width="60%"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@amit17&theme=darcula" /></p>
 
 <h4 align="center">Connect with me.</h4>
