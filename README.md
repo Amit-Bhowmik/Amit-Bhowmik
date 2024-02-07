@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, This is Amit Bhowmik</h1>
 <h3 align="center">Coding is my passion</h3>
 
-<h5 align= "center" src="amitbhowmik407@gmail.com">Contact me...</h5>
 
 
 <div align="center">
