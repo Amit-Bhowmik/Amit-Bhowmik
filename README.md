@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, This is Amit Bhowmik</h1>
 <h3 align="center">Coding is my passion</h3>
 
-- 📫 How to reach me  **[amitbhowmik407@gmail.com](amitbhowmik407@gmail.com)**
+<h1 align= "center">Contact me **[amitbhowmik407@gmail.com](amitbhowmik407@gmail.com)**</h1>
+
 
 <div align="center">
   
