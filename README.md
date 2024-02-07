@@ -8,5 +8,7 @@
   
 </div>
 
+<a href="https://wakatime.com/@018d83a8-99e7-442d-a0fe-a4b083f56119"><img src="https://wakatime.com/badge/user/018d83a8-99e7-442d-a0fe-a4b083f56119.svg" alt="Total time coded since Feb 7 2024" /></a>
+
 
 ###
