@@ -15,6 +15,15 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amit-Bhowmik&show_icons=true&locale=en&theme=darcula" alt="Amit-Bhowmik" /></p>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=amit17&theme=darcula" /></p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amit-bhowmik-8abb6b232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-bhowmik-8abb6b232/" height="10" width="auto" /></a>
+<a href="https://fb.com/amit.bhowmik.5205622?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amit.bhowmik.5205622?_rdc=1&_rdr" height="10" width="auto" /></a>
+<a href="https://instagram.com/__amit_bhowmik__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__amit_bhowmik__" height="10" width="auto" /></a>
+<a href="https://www.hackerrank.com/amitbhowmik407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amitbhowmik407" height="10" width="auto" /></a>
+<a href="https://codeforces.com/profile/ami_tbhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ami_tbhowmik" height="10" width="auto" /></a>
+</p>
+
 
 
 ###
