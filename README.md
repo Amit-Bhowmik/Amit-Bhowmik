@@ -1,5 +1,15 @@
 <h1 align="center">Hi there, This is Amit Bhowmik</h1>
-<h3 align="center">Programmer.</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amit-Bhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="Amit-Bhowmik" />
+  <img src="https://wakatime.com/badge/user/018d6515-3dc9-49b0-b053-e7092287bc40.svg" alt="Amit-Bhowmik"/>
+</p>
+
+- 🌱 I’m currently learning **Java & C++**
+
+- 💬 Ask me about **HTML, CSS, Java, C/C++**
+
+- 📫 How to reach me **amitbhowmik407@gmail.com**
 
 
 <div align="center">
