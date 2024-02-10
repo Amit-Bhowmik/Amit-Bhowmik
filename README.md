@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amit-Bhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="Amit-Bhowmik" />
-  <img src="https://wakatime.com/badge/user/018d6515-3dc9-49b0-b053-e7092287bc40.svg" alt="Amit-Bhowmik"/>
+  <img src="https://wakatime.com/badge/user/@amit17.svg" alt="Amit-Bhowmik"/>
 </p>
 
 - 🌱 I’m currently learning **Java & C++**
