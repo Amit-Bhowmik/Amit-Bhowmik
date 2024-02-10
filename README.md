@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, This is Amit Bhowmik</h1>
 <div align = "center">
-  - 🌱 I’m currently learning **Java & C++**
+  🌱 I’m currently learning **Java & C++**
+  
+  💬 Ask me about **HTML, CSS, Java, C/C++**
 
-  - 💬 Ask me about **HTML, CSS, Java, C/C++**
-
-  - 📫 How to reach me **amitbhowmik407@gmail.com**
+  📫 How to reach me **amitbhowmik407@gmail.com**
 </div>
 
 
