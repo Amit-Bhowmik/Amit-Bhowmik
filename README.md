@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, This is Amit Bhowmik</h1>
 <div align = "center">
-  🌱 I’m currently learning **Java & C++**
+  🌱 I’m currently learning **DSA in C++**
   
-  💬 Ask me about **HTML, CSS, Java, C/C++**
+  💬 Ask me about **C, C++, Java, SQL**
   
   📫 How to reach me **amitbhowmik407@gmail.com**
 <p align="center">
