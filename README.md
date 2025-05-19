@@ -5,6 +5,13 @@
   💬 Ask me about **HTML, CSS, Java, C/C++**
   
   📫 How to reach me **amitbhowmik407@gmail.com**
+<p align="center">
+<a href="https://fb.com/amit.bhowmik.5205622?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amit.bhowmik.5205622?_rdc=1&_rdr" height="25" width="auto" /></a>
+<a href="https://instagram.com/__amit_bhowmik__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__amit_bhowmik__" height="25" width="auto" /></a>
+<a href="https://linkedin.com/in/amit-bhowmik-8abb6b232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-bhowmik-8abb6b232/" height="25" width="auto" /></a>
+<a href="https://www.hackerrank.com/amitbhowmik407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amitbhowmik407" height="25" width="auto" /></a>
+<a href="https://codeforces.com/profile/amit.bhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amit.bhowmik" height="25" width="auto" /></a>
+</p>
 </div>
 
 
@@ -33,14 +40,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@amit17&theme=darcula" /></p>
 
-<h4 align="center">Connect with me.</h4>
-<p align="center">
-<a href="https://fb.com/amit.bhowmik.5205622?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amit.bhowmik.5205622?_rdc=1&_rdr" height="25" width="auto" /></a>
-<a href="https://instagram.com/__amit_bhowmik__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__amit_bhowmik__" height="25" width="auto" /></a>
-<a href="https://linkedin.com/in/amit-bhowmik-8abb6b232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-bhowmik-8abb6b232/" height="25" width="auto" /></a>
-<a href="https://www.hackerrank.com/amitbhowmik407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amitbhowmik407" height="25" width="auto" /></a>
-<a href="https://codeforces.com/profile/amit.bhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amit.bhowmik" height="25" width="auto" /></a>
-</p>
+
 
 
 
