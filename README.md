@@ -39,7 +39,7 @@
 <a href="https://instagram.com/__amit_bhowmik__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__amit_bhowmik__" height="25" width="auto" /></a>
 <a href="https://linkedin.com/in/amit-bhowmik-8abb6b232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-bhowmik-8abb6b232/" height="25" width="auto" /></a>
 <a href="https://www.hackerrank.com/amitbhowmik407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amitbhowmik407" height="25" width="auto" /></a>
-<a href="https://codeforces.com/profile/ami_tbhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ami_tbhowmik" height="25" width="auto" /></a>
+<a href="https://codeforces.com/profile/amit.bhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amit.bhowmik" height="25" width="auto" /></a>
 </p>
 
 
