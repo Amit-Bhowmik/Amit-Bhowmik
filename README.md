@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, This is Amit Bhowmik</h1>
+<h4 align="center">Think. Code. Optimize. Repeat</h4>
+
 <div align = "center">
-  🌱 I’m currently learning **DSA in C++**
+  🌱 I’m currently learning **Pyhthon for AI & ML**
   
   💬 Ask me about **C, C++, Java, SQL**
   
@@ -34,14 +36,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="auto"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="auto"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="auto"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="20" height="auto"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="auto"/> </a> 
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@amit17&theme=darcula" /></p>
-
-
-
-
 
 ###
